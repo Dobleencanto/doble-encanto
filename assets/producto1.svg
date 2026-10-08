@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" role="img" aria-label="Arreglos para fiestas">
+  <defs>
+    <linearGradient id="bg1" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#fff6f7"/>
+      <stop offset="100%" stop-color="#fdeef3"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg1)"/>
+  <circle cx="400" cy="260" r="150" fill="#f6dbe3" opacity="0.8"/>
+  <g transform="translate(400 260)">
+    <g fill="#d76d8f"><path d="M0,-110 C50,-58 48,-10 0,38 C-42,-10 -48,-56 0,-110Z"/><path d="M112,0 C66,40 18,42 -18,0 C18,-42 64,-42 112,0Z"/><path d="M0,110 C50,62 48,14 0,-34 C-42,14 -48,62 0,110Z"/><path d="M-112,0 C-66,40 -18,42 18,0 C-18,-42 -64,-42 -112,0Z"/></g>
+    <g fill="#f0cd77"><path d="M74,-76 C118,-28 120,18 74,64 C34,20 20,-26 74,-76Z"/><path d="M-74,-76 C-118,-28 -120,18 -74,64 C-34,20 -20,-26 -74,-76Z"/><path d="M74,76 C118,28 120,-18 74,-64 C34,-20 20,26 74,76Z"/><path d="M-74,76 C-118,28 -120,-18 -74,-64 C-34,-20 -20,26 -74,76Z"/></g>
+    <circle r="38" fill="#f8b0c5"/>
+  </g>
+  <g fill="#7aa07a" opacity="0.9">
+    <path d="M185 555 C250 480 298 470 342 503 C314 574 255 610 185 555Z"/>
+    <path d="M612 560 C530 490 475 494 412 518 C445 578 524 611 612 560Z"/>
+    <path d="M320 470 C305 560 320 620 390 675 C440 620 450 555 420 470Z"/>
+  </g>
+  <text x="400" y="730" text-anchor="middle" font-size="58" font-family="Georgia, serif" fill="#733d4b">Arreglos para fiestas</text>
+</svg>

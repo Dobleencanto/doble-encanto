@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" role="img" aria-label="Doble Encanto By G&E logo">
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#fff8f9"/>
+      <stop offset="100%" stop-color="#f7dfe6"/>
+    </linearGradient>
+    <linearGradient id="petal1" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f8d1dc"/>
+      <stop offset="100%" stop-color="#d9708d"/>
+    </linearGradient>
+    <linearGradient id="petal2" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffe8b6"/>
+      <stop offset="100%" stop-color="#d7b36a"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#a1c3a4"/>
+      <stop offset="100%" stop-color="#5f8d5e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg)" rx="48"/>
+  <g transform="translate(120 80)">
+    <circle cx="280" cy="250" r="155" fill="#f8dfe6" opacity="0.9"/>
+    <g transform="translate(280 250)">
+      <g fill="url(#petal1)" opacity="0.95">
+        <path d="M0,-110 C50,-58 48,-10 0,38 C-42,-10 -48,-56 0,-110Z"/>
+        <path d="M112,0 C66,40 18,42 -18,0 C18,-42 64,-42 112,0Z"/>
+        <path d="M0,110 C50,62 48,14 0,-34 C-42,14 -48,62 0,110Z"/>
+        <path d="M-112,0 C-66,40 -18,42 18,0 C-18,-42 -64,-42 -112,0Z"/>
+      </g>
+      <g fill="url(#petal2)" opacity="0.9">
+        <path d="M74,-76 C118,-28 120,18 74,64 C34,20 20,-26 74,-76Z"/>
+        <path d="M-74,-76 C-118,-28 -120,18 -74,64 C-34,20 -20,-26 -74,-76Z"/>
+        <path d="M74,76 C118,28 120,-18 74,-64 C34,-20 20,26 74,76Z"/>
+        <path d="M-74,76 C-118,28 -120,-18 -74,-64 C-34,-20 -20,26 -74,76Z"/>
+      </g>
+      <circle r="42" fill="#f5c9d4"/>
+      <circle r="20" fill="#fff2f5"/>
+    </g>
+    <g fill="url(#leaf)">
+      <path d="M160 390 C240 330 280 360 330 430 C261 468 195 468 160 390Z"/>
+      <path d="M412 390 C500 330 548 356 590 432 C530 472 466 470 412 390Z"/>
+      <path d="M250 415 C215 500 235 560 300 596 C346 554 360 490 331 419Z"/>
+      <path d="M333 420 C394 500 393 565 316 604 C276 548 270 492 333 420Z"/>
+    </g>
+    <g stroke="#6a7d63" stroke-width="6" stroke-linecap="round" fill="none">
+      <path d="M260 360 C216 330 186 310 160 297"/>
+      <path d="M340 360 C380 330 420 310 452 298"/>
+      <path d="M300 370 C290 430 286 475 299 523"/>
+    </g>
+  </g>
+  <g transform="translate(190 620)">
+    <text x="0" y="0" font-size="72" font-family="Georgia, serif" fill="#733d4b" letter-spacing="2">Doble Encanto</text>
+    <text x="155" y="42" font-size="28" font-family="Arial, sans-serif" fill="#ba8b45" letter-spacing="10">BY G&amp;E</text>
+  </g>
+</svg>

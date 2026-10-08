@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" role="img" aria-label="Arreglos florales">
+  <rect width="800" height="800" fill="#fff8f9"/>
+  <circle cx="400" cy="290" r="170" fill="#f5d8df" opacity="0.9"/>
+  <g transform="translate(400 290)">
+    <g fill="#dd7b9f"><path d="M0,-120 C56,-56 54,-10 0,42 C-52,-10 -54,-62 0,-120Z"/><path d="M120,0 C68,52 22,48 -22,0 C22,-48 68,-52 120,0Z"/><path d="M0,120 C56,56 54,10 0,-42 C-52,10 -54,62 0,120Z"/><path d="M-120,0 C-68,52 -22,48 22,0 C-22,-48 -68,-52 -120,0Z"/></g>
+    <g fill="#f3ca77"><path d="M80,-86 C136,-36 138,20 80,68 C38,26 20,-24 80,-86Z"/><path d="M-80,-86 C-136,-36 -138,20 -80,68 C-38,26 -20,-24 -80,-86Z"/><path d="M80,86 C136,36 138,-20 80,-68 C38,-26 20,24 80,86Z"/><path d="M-80,86 C-136,36 -138,-20 -80,-68 C-38,-26 -20,24 -80,86Z"/></g>
+    <circle r="42" fill="#f8d7e2"/>
+  </g>
+  <g fill="#98b890" opacity="0.9">
+    <path d="M198 580 C260 470 288 462 330 502 C295 590 242 620 198 580Z"/>
+    <path d="M602 582 C540 468 512 460 468 498 C505 588 554 618 602 582Z"/>
+    <path d="M358 430 C332 530 340 600 420 645 C472 590 475 520 444 430Z"/>
+  </g>
+  <text x="400" y="724" text-anchor="middle" font-size="58" font-family="Georgia, serif" fill="#733d4b">Arreglos florales</text>
+</svg>
